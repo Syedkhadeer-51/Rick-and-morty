@@ -1,0 +1,10 @@
+.character-search{
+    border-radius: 0.5rem;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 6px -1px, rgb(0 0 0 / 6%) 0px 2px 4px -1px;
+    background-color:#4B5563;
+    color: #ffffff;
+    border: none;
+}
+.character-search:focus{
+    outline: none;
+}

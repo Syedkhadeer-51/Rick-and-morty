@@ -1,0 +1,12 @@
+.page-btn a{
+    color: #ffffff !important;
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .pagination {
+      font-size: 12px !important;
+    }
+    .page-item {
+      display: none;
+    }
+  }

@@ -1,0 +1,22 @@
+.character-card{
+    color: #ffffff;
+    background: rgb(60, 62, 68);
+    border-radius: 0.5rem;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 6px -1px, rgb(0 0 0 / 6%) 0px 2px 4px -1px;
+    max-width: 300px;
+}
+.character-card:hover{
+    border: 1px solid grey;
+}
+.character-name{
+    font-weight: 500 !important;
+    font-size: 24px !important;
+}
+.gender{
+    font-size: 16px;
+    font-weight: 400;
+}
+.location{
+    font-size: 14px;
+    font-weight: 300;
+}
